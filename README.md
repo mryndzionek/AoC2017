@@ -1,1 +1,1 @@
-[Advent of Code 2017](AoC_2017.ipynb)
+[Advent of Code 2017](notebook/AoC_2017.ipynb)
